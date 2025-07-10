@@ -18,4 +18,4 @@
 
 SEO方面，站点应注重关键词布局和内部链接建设。通过合理的关键词分布、内外部链接的搭建，站点能够提升在搜索引擎中的排名，获得更多的自然流量。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/tsk543210/xxriben0910 ）</span>
